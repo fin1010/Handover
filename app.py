@@ -852,3 +852,5 @@ st.markdown(
     f"{APP_NAME} {APP_VERSION} • {DATA_STATEMENT} • Support: <b>{SUPPORT_EMAIL}</b>"
     f"</div>",
     unsafe_allow_html=True,
+)
+
